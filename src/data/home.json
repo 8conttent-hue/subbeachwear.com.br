@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "title": "SUBBEACHWEAR — Bem-vinda à SUBBEACHWEAR!",
+    "description": "Roupas de banho feitas com amor para mulheres reais."
+  },
+  "hero": {
+    "title": "Bem-vinda à SUBBEACHWEAR!",
+    "subtitle": "Roupas de banho feitas com amor para mulheres reais.",
+    "btnText": "Explore nossa coleção",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "O que nos torna especiais",
+    "items": [
+      {
+        "icon": "👗",
+        "title": "Variedade de Modelos",
+        "desc": "Oferecemos uma grande variedade de trajes de banho que atendem a todos os estilos e corpos."
+      },
+      {
+        "icon": "💖",
+        "title": "Qualidade e Conforto",
+        "desc": "Nossos produtos são escolhidos com cuidado para garantir conforto e durabilidade."
+      },
+      {
+        "icon": "🌟",
+        "title": "Apoio à Autoestima",
+        "desc": "Cada peça é feita para que você se sinta confiante e bonita, independentemente do seu tamanho."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre a Claudia",
+    "desc": "Após anos no mundo corporativo, decidi realizar meu sonho de empreender no setor de moda feminina. A SUBBEACHWEAR nasceu da minha paixão por moda e do desejo de fazer as mulheres se sentirem incríveis.",
+    "stats": [
+      {
+        "value": "5",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "1000+",
+        "label": "Clientes Satisfeitas"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

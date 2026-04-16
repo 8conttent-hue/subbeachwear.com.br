@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o SUBBEACHWEAR"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Após anos no mundo corporativo, decidi realizar meu sonho de empreender no setor de moda feminina. A SUBBEACHWEAR nasceu da minha paixão por moda e do desejo de fazer as mulheres se sentirem incríveis."
+  },
+  "content": "Na SUBBEACHWEAR, acreditamos que cada mulher merece se sentir especial. Trabalhamos com dedicação para oferecer produtos que valorizam a beleza e a autenticidade de nossas clientes.",
+  "mission": "Nossa missão é empoderar mulheres por meio da moda, proporcionando roupas que expressem quem elas realmente são.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

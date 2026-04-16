@@ -1,0 +1,53 @@
+{
+  "name": "SUBBEACHWEAR",
+  "slug": "subbeachwear.com.br",
+  "description": "Olá! Meu nome é Claudia e sou a fundadora da subbeachwear.com.br, a maior loja online de roupas femininas de Osasco. Depois de trabalhar no mundo corporativo por muitos anos, decidi perseguir meu sonho de iniciar meu próprio negócio. A roupa de baixo é um trabalho de amor para mim. Sou apaixonado por ajudar as mulheres a se sentirem bonitas e confiantes em seus trajes de banho e de praia. Acredito que toda mulher merece olhar e sentir o seu melhor, não importa o seu tamanho ou forma. Obrigado por visitar nosso site! Esperamos que você encontre algo que você ama!",
+  "url": "https://subbeachwear.com.br",
+  "niche": "Moda e Beleza",
+  "keywords": "Ola Meu nome e Claudia e sou a fundadora da subbeachwear com",
+  "email": "contato@subbeachwear.com.br",
+  "palette": "ocean",
+  "colors": {
+    "primary": "#0ea5e9",
+    "accent": "#0369a1",
+    "dark": "#0c4a6e"
+  },
+  "headerContrast": "light",
+  "font": "poppins",
+  "fontFamily": "'Poppins', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-G",
+    "hero": "Hero-C",
+    "features": "Features-E",
+    "about": "About-E",
+    "posts": "Posts-J",
+    "footer": "Footer-B",
+    "sobre": "Sobre-D",
+    "contato": "Contato-E"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
